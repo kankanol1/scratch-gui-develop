@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Test",
+        "tags": [
+            "people",
+            "person"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "b36584db82bdd45014430aa918461ca0",
+                "name": "test-a",
+                "bitmapResolution": 1,
+                "md5ext": "b36584db82bdd45014430aa918461ca0.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 31,
+                "rotationCenterY": 100
+            },
+            {
+                "assetId": "0aef4633e8580e209020b054eb55982f",
+                "name": "test-b",
+                "bitmapResolution": 1,
+                "md5ext": "0aef4633e8580e209020b054eb55982f.svg",
+                "dataFormat": "svg",
+                "rotationCenterX": 31,
+                "rotationCenterY": 100
+            }, {
+                "assetId": "0b01b2f1c67d68789b84adeb76045af2",
+                "name": "test-c",
+                "bitmapResolution": 1,
+                "md5ext": "0b01b2f1c67d68789b84adeb76045af2.png",
+                "dataFormat": "svg",
+                "rotationCenterX": 31,
+                "rotationCenterY": 100
+            }
+        ],
+        "sounds": [
+            {
+                "assetId": "0b1e3033140d094563248e61de4039e5",
+                "name": "pop1",
+                "dataFormat": "wav",
+                "format": "",
+                "rate": 44100,
+                "sampleCount": 1032,
+                "md5ext": "0b1e3033140d094563248e61de4039e5.wav"
+            }
+        ],
+        "blocks": {}
+    }
+]
