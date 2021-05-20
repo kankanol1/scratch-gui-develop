@@ -87,6 +87,8 @@ blocks： 扩展
 ```text
 https://cdn.assets.scratch.mit.edu/internalapi/asset/${iconMd5}/get/
 ```
+
+
 json 文件目录 `../src/lib/librarys/`
 ```text
 sprites.json     默认角色文件
@@ -109,8 +111,8 @@ import costume2 from '!raw-loader!./logo.svg';
 ## 选择素材后接口
 
 `../src/lib/storage.js` 57行
- `../node_modules/scratch-vm/dist/node/scratch-vm.js`
+`../node_modules/scratch-vm/dist/node/scratch-vm.js`
 
- ```text
+```text
 示例：https://kankan.ngrok2.xiaomiqiu.cn/assets/800f6f1573677d59954e8d3164602287.svg
 ```
